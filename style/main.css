@@ -86,8 +86,20 @@ header nav a:hover{
     color: black;
 }
 
+.botao a:hover{
+    background-color: white;
+    color: black;
+}
+
 .botao i{
     margin-right: 8px;
+}
+
+.botao a{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+    transition: .3s ease all;
 }
 
 .container{
