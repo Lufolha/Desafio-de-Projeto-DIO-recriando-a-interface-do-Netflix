@@ -107,13 +107,37 @@ header nav a:hover{
     width: 40%;
 }
 
-.categoria{
+.principais{
     color: #fff;
     margin-top: 5px;
     margin-left: 30px;
     font-size: 12px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.series{
+    color: #fff;
+    margin-top: 5px;
+    margin-left: 30px;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.filmes{
+    color: #fff;
+    margin-top: 5px;
+    margin-left: 30px;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.documentarios{
+    color: #fff;
+    margin-top: 5px;
+    margin-left: 30px;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 
 .box-filme{
     height: 100%;
